@@ -24,7 +24,7 @@ ___
 
 #### Image
 
-![Rhytidoponera Metallica](https://github.com/BaqueroGalvis/tfcb-homework01/blob/main/images/casent0172345_RhytidoponeraMetallica.jpg)
+![Rhytidoponera](https://github.com/BaqueroGalvis/tfcb-homework01/blob/main/images/casent0172345_RhytidoponeraMetallica.jpg)
 
 ----
 
